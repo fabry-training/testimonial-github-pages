@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to this wonderful testimonial blog site!
 ---
 #a warm and friendly welcome!
-## second heading
-### third heading
+## this page is just for training issues
+### have a nice day, enjoy yourself
